@@ -4,7 +4,7 @@ I'm Nhat Minh, a MERN stack developer in the future.
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-NhatMinh-0e76a8?style=flat&labelColor=0e76a8&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010118567054 ) 
+[![Linkedin Badge](https://img.shields.io/badge/-Nhat_Minh-0e76a8?style=flat&labelColor=0e76a8&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010118567054 ) 
  [![Linkedin Badge](https://img.shields.io/badge/-BuiNhatMinh-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuyen-le-721baa200/) 
  [![initargram Badge](https://img.shields.io/badge/-nhajt_minh-e84393?style=flat&labelColor=f8a5c2&logo=instagram&logoColor=white)](https://www.instagram.com/tuyen15888/) 
  [![Mail Badge](https://img.shields.io/badge/-nhatminh5331-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nhoctengi158@gmail.com)
